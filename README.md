@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pavan Solanki  
 
-🚀 **Full Stack Developer | MERN | Java | Spring Boot | Microservices | DSA**  
+🚀 **Full Stack Developer | Java | Spring Boot | Microservices | DSA | MERN**  
 
 💻 Passionate about building scalable, user-focused web applications using modern technologies like React.js, Spring Boot, and PostgreSQL.  
 
@@ -10,8 +10,8 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)  
-**Backend:** Java, Spring Boot, Node.js, Express.js  
+**Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML, CSS  
+**Backend:** Java, Spring Boot, Microservices, Spring AI, Spring Security(JWT), Node.js, Express.js  
 **Database:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code  
 
